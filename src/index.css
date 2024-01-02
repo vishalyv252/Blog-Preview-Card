@@ -1,0 +1,7 @@
+/* I imported this font from Google fonts.*/
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600;800&display=swap');
+
+/* I added the Tailwind-CSS directives to this CSS file.*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
